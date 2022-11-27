@@ -1,0 +1,11 @@
+.intro__stroke-small {
+  background-image: url('../../../images/main-image.png');
+  object-fit: cover;
+  width: 586px;
+  height: 972px;
+  position: absolute;
+  top: 110px;
+  left: 665px;
+  border-radius: 279.5px 279.5px 0px 0px;
+  margin: 24px auto 0;
+}

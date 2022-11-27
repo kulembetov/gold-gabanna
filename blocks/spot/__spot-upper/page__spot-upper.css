@@ -1,0 +1,11 @@
+.spot-upper {
+  width: 142.8px;
+  height: 195.76px;
+  background-image: url('../../../images/spot.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 78.96px;
+  right: 27.6px;
+  filter: blur(150px);
+}

@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Cormorant';
+  font-weight: 500;
+  src: url('./fonts/cormorant-medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  src: url('./fonts/montserrat-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 500;
+  src: url('./fonts/montserrat-medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Georgia';
+  font-weight: 700;
+  src: url('./fonts/georgia-bold.woff') format('woff');
+}

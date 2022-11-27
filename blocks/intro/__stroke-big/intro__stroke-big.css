@@ -1,0 +1,11 @@
+.intro__stroke-big {
+  width: 701px;
+  height: 1029px;
+  position: relative;
+  box-sizing: border-box;
+  border: 1px solid #D5CFCB;
+  border-bottom: none;
+  border-radius: 279.5px 279.5px 0px 0px;
+  opacity: 0.1;
+  margin: 27px auto 0;
+}

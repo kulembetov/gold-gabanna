@@ -1,0 +1,15 @@
+.arrow__right {
+  width: 36px;
+  height: 20px;
+  background-image: url('../../../images/arrow-right.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 50%;
+  right: 144px;
+  transition: opacity .3s ease-in;
+}
+
+.arrow__right:hover {
+  opacity: .3;
+}

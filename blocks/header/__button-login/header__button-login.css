@@ -1,0 +1,18 @@
+.header__button-login {
+  font-family: 'Montserrat';
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  background-color: #C09F8A;
+  width: 88px;
+  height: 32px;
+  color: #FFF;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  transition: opacity .3s ease;
+}
+
+.header__button-login:hover {
+  opacity: .6;
+}

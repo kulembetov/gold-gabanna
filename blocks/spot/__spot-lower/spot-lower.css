@@ -1,0 +1,11 @@
+.spot-lower {
+  width: 142.8px;
+  height: 195.76px;
+  background-image: url('../../../images/spot.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 618.54px;
+  left: 56.4px;
+  filter: blur(150px);
+}

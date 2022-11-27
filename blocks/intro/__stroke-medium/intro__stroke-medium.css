@@ -1,0 +1,13 @@
+.intro__stroke-medium {
+  width: 624px;
+  height: 995px;
+  position: absolute;
+  top: 70px;
+  left: 650px;
+  box-sizing: border-box;
+  border: 2px solid #D5CFCB;
+  border-bottom: none;
+  border-radius: 279.5px 279.5px 0px 0px;
+  opacity: 0.3;
+  margin: 43px auto 0;
+}

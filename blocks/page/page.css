@@ -1,0 +1,9 @@
+.page {
+  width: 100%;
+  background-color: #373737;
+  font-family: 'Cormorant', 'Montserrat', 'Georgia', Arial, sans-serif;
+  text-rendering: optimizeLegibility;
+  color: #FFF;
+  position: relative;
+  margin: 0;
+}
